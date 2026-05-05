@@ -3,7 +3,6 @@ import sys
 
 def factorial(n):
     result = 1
-    print("one moment")
     while n > 1:
         result *= n
         n -= 1
